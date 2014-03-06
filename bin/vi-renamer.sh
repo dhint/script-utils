@@ -5,9 +5,9 @@ set -e
 ##
 ## Binaries
 ##
-SED_BIN=sed
-MKTEMP_BIN=mktemp
-SEQ_BIN=seq
+SED_BIN=gsed
+MKTEMP_BIN=gmktemp
+SEQ_BIN=gseq
 
 ##
 ## Functions

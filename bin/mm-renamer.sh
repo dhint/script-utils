@@ -1,7 +1,7 @@
 #!/bin/bash
 
-HASH_BIN=sha1sum
-EXIFTOOL_BIN=exiftool
+HASH_BIN=/usr/local/bin/gsha1sum
+EXIFTOOL_BIN=/usr/local/bin/exiftool
 DATE_FORMAT="%Y%m%d-%H%M%S"
 
 

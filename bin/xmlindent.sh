@@ -8,7 +8,7 @@ set -e
 CAT_BIN="$(which cat)"
 RM_BIN="$(which rm)"
 MV_BIN="$(which mv)"
-MKTEMP_BIN="$(which mktemp)"
+MKTEMP_BIN="$(which gmktemp)"
 XSLTPROC_BIN="$(which xsltproc)"
 HEAD_BIN="$(which head)"
 GREP_BIN="$(which egrep)"
